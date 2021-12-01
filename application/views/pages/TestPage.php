@@ -10,9 +10,12 @@
 <body class="home">
 	<div class="container">
 		<div class="title">
-			<h3 class="mb-5">
+			<h3 class="mb-2">
 				Answer to Get Your Personality Type !
 			</h3>
+			<h4 class="mb-2 question" style="background-color: #68dada; color: whitesmoke; text-align: center;">
+				Jawablah pernyataan berikut sesuai dengan keadaan Anda akhir-akhir ini.
+			</h4>
 		</div>
 		<div class="container col-md-12 text-center mb-4">
 			<div className="custom-scrollbar-css p-2">
@@ -22,9 +25,9 @@
 					foreach($test as $row) {
 						$soal = $row['Pernyataan'];
 				?>
-				<div class="row mb-5 question">
+				<div class="row mt-3 question">
 					<div class="col">
-						<div className="row">
+						<div className="row" style="font-size: 20px; font-weight: bold;">
 							<?= $soal; ?>
 						</div>
 						<div className="row">
