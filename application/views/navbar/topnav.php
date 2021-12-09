@@ -11,17 +11,17 @@
 	<ul class="nav align-right">
 		<li class="nav-item">
 			<div class="topNav">
-				<a class="nav-link" href="<?php echo site_url('Test'); ?>">Test</a>
+				<a class="nav-link" href="<?php echo site_url('Test'); ?>">Tes</a>
 			</div>
 		</li>
 		<li class="nav-item">
 			<div class="topNav">
-				<a class="nav-link" href="<?php echo site_url('TipePersonalitas'); ?>">Personality Types</a>
+				<a class="nav-link" href="<?php echo site_url('TipePersonalitas'); ?>">Tipe Kepribadian</a>
 			</div>
 		</li>
 		<li class="nav-item">
 			<div class="topNav">
-				<a class="nav-link" href="<?php echo site_url('AboutUs'); ?>">About Us</a>
+				<a class="nav-link" href="<?php echo site_url('AboutUs'); ?>">Tentang Kami</a>
 			</div>
 		</li>
 		<li class="nav-item">

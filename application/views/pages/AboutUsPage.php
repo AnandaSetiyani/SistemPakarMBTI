@@ -9,7 +9,7 @@
 </head>
 <body class="container">
 	<div class="team">
-		<h1 class="title"> Meet Our Team </h1>
+		<h1 class="title"> Pengembang Sistem Pakar </h1>
 		<div class="box-container">
 			<div class="box">
 				<img src="<?php echo base_url().'assets/leo.jpg' ?>" class="manusia">

@@ -8,8 +8,8 @@
 	?>
 </head>
 <body class="container">
-	<div class="row mx-auto" style="width: 350px; margin-top: 4rem;">
-		<h1 class="title">Created Using : </h1>
+	<div class="row mx-auto align-center" style="width: 800px; margin-top: 4rem;">
+		<h1 class="title">Pengembangan sistem didukung oleh : </h1>
 	</div>
 	<div class="row mt-0">
 		<div class="col-4">
@@ -37,8 +37,8 @@
 			</div>
 		</div>
 	</div>
-	<div class="row mx-auto mt-0" style="width: 400px;">
-		<h1 class="title2">Special Thanks to : </h1>
+	<div class="row mx-auto mt-0 align-center" style="width: 500px;">
+		<h1 class="title2">Terima kasih kepada : </h1>
 	</div>
 	<div class="row mt-0">
 		<div class="col-4">

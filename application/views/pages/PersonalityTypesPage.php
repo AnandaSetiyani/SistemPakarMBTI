@@ -9,7 +9,7 @@
 </head>
 <body class="container">
 	<div class="title">
-		<h3>Search Your Personality Details Here</h3>
+		<h3>Cari Penjelasan Tipe Kepribadian Anda</h3>
 	</div>
 	<div class="main">
 		<form method="POST">
@@ -17,7 +17,7 @@
 				<div class="input-group-prepend">
 					<span class="fa fa-search input-group-text"></span>
 				</div>
-				<input type="text" class="form-control" name="keyword" placeholder="Type MBTI Here">
+				<input type="text" class="form-control" name="keyword" placeholder="Tulis kata kunci">
 			</div>
 		</form>
 	</div>

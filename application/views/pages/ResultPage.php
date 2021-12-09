@@ -17,7 +17,7 @@
 	?>
 	<div class="row">
 		<div class="col">
-			<h2 class="judul text-center mb-2">Your Personality Type Is :</h2>
+			<h2 class="judul text-center mb-2">Tipe Kepribadian Anda :</h2>
 			<h1 class="nama text-center text-uppercase"><?= $Judul; ?></h1>
 		</div>
 	</div>

@@ -9,8 +9,8 @@
 </head>
 <body class="home">
 	<div class="title">
-		<h1>Find Your Personality !</h1>
-		<button class="btnTest"><a href="<?=site_url('Test'); ?>"> BEGIN TEST </a></button>
+		<h1>Cari Tahu Tipe Kepribadian Anda !</h1>
+		<button class="btnTest"><a href="<?=site_url('Test'); ?>"> MULAI TES </a></button>
 	</div>
 </body>
 </html>

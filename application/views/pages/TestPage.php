@@ -11,7 +11,7 @@
 	<div class="container">
 		<div class="title">
 			<h3 class="mb-2">
-				Answer to Get Your Personality Type !
+				Jawablah Pernyataan Untuk Mengetahui Tipe Kepribadian !
 			</h3>
 			<h4 class="mb-2 question" style="background-color: #68dada; color: whitesmoke; text-align: center;">
 				Jawablah pernyataan berikut sesuai dengan keadaan Anda akhir-akhir ini.
@@ -32,14 +32,14 @@
 						</div>
 						<div className="row">
 							<div className="form-check inline-block">
-								<label> Tidak Setuju </label>
+								<label> Tidak Pasti </label>
 									<input type="radio" name="<?= $i; ?>" value="0" required/>
 									<input type="radio" name="<?= $i; ?>" value="0.2" required/>
 									<input type="radio" name="<?= $i; ?>" value="0.4" required/>
 									<input type="radio" name="<?= $i; ?>" value="0.6" required/>
 									<input type="radio" name="<?= $i; ?>" value="0.8" required/>
 									<input type="radio" name="<?= $i; ?>" value="1" required/>
-								<label> Sangat Setuju </label>
+								<label> Pasti </label>
 							</div>
 						</div>
 					</div>
